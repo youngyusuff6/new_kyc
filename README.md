@@ -1,4 +1,4 @@
-Certainly! Here's a basic template for a README file. You can customize it according to your project's specific details:
+
 
 ```markdown
 # KYC Record Management System
